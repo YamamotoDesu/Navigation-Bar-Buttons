@@ -3,7 +3,7 @@ Customizing, and managing button items across multiple view controllers.
 
 <img width="490" src="https://github.com/YamamotoDesu/NavigationBarButtons/blob/main/NavigationBarItems/Gif/NavigationBarButtons.gif">
 
-<img width="493" src="https://user-images.githubusercontent.com/47273077/156865055-dc43566f-3414-4469-aaa3-68107c22794d.png">
+<img width="1000" src="https://user-images.githubusercontent.com/47273077/156865055-dc43566f-3414-4469-aaa3-68107c22794d.png">
 
 ## How to set up
 ```swift
