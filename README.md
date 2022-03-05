@@ -67,5 +67,23 @@ class ViewController: UIViewController {
 }
 
 
-
 ```
+
+
+## Set Custom View to the navigation item
+<img width="337" src="https://user-images.githubusercontent.com/47273077/156865185-85a0a942-4fb9-4692-bf09-49cf730548f7.png">
+
+```swift
+        let customView = UILabel(frame: CGRect(x: 0, y: 0, width: 100, height: 40))
+        customView.text = "Hello"
+        customView.textAlignment = .center
+        customView.backgroundColor = .orange
+        customView.layer.cornerRadius = 8
+        customView.layer.masksToBounds = true
+
+        self.navigationItem.leftBarButtonItem = UIBarButtonItem(
+            customView: customView
+        )
+```
+
+
