@@ -14,6 +14,7 @@
 		7B917BFE27D2F05400C10CFC /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7B917BFD27D2F05400C10CFC /* Assets.xcassets */; };
 		7B917C0127D2F05400C10CFC /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7B917BFF27D2F05400C10CFC /* LaunchScreen.storyboard */; };
 		7B917C0927D2F55700C10CFC /* DefaultNavigationController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7B917C0827D2F55700C10CFC /* DefaultNavigationController.swift */; };
+		7B917C0C27D3067700C10CFC /* NavigationBarButtons.gif in Resources */ = {isa = PBXBuildFile; fileRef = 7B917C0B27D3067600C10CFC /* NavigationBarButtons.gif */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		7B917C0027D2F05400C10CFC /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		7B917C0227D2F05400C10CFC /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		7B917C0827D2F55700C10CFC /* DefaultNavigationController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DefaultNavigationController.swift; sourceTree = "<group>"; };
+		7B917C0B27D3067600C10CFC /* NavigationBarButtons.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = NavigationBarButtons.gif; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 			isa = PBXGroup;
 			children = (
 				7B917C0A27D3049300C10CFC /* Gif */,
+				7B917C0B27D3067600C10CFC /* NavigationBarButtons.gif */,
 				7B917BF427D2F05000C10CFC /* AppDelegate.swift */,
 				7B917BF627D2F05000C10CFC /* SceneDelegate.swift */,
 				7B917BF827D2F05000C10CFC /* ViewController.swift */,
@@ -136,6 +139,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				7B917C0C27D3067700C10CFC /* NavigationBarButtons.gif in Resources */,
 				7B917C0127D2F05400C10CFC /* LaunchScreen.storyboard in Resources */,
 				7B917BFE27D2F05400C10CFC /* Assets.xcassets in Resources */,
 				7B917BFC27D2F05000C10CFC /* Main.storyboard in Resources */,
