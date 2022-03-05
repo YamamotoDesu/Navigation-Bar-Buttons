@@ -61,7 +61,6 @@
 			isa = PBXGroup;
 			children = (
 				7B917C0A27D3049300C10CFC /* Gif */,
-				7B917C0B27D3067600C10CFC /* NavigationBarButtons.gif */,
 				7B917BF427D2F05000C10CFC /* AppDelegate.swift */,
 				7B917BF627D2F05000C10CFC /* SceneDelegate.swift */,
 				7B917BF827D2F05000C10CFC /* ViewController.swift */,
@@ -77,6 +76,7 @@
 		7B917C0A27D3049300C10CFC /* Gif */ = {
 			isa = PBXGroup;
 			children = (
+				7B917C0B27D3067600C10CFC /* NavigationBarButtons.gif */,
 			);
 			path = Gif;
 			sourceTree = "<group>";
